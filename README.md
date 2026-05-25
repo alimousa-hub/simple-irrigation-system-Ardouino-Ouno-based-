@@ -98,6 +98,11 @@ Install these in the Arduino IDE before uploading:
 
 ---
 
+
+## 🔗 Simulation
+Try the live circuit simulation on Tinkercad:
+[👉 View on Tinkercad](https://www.tinkercad.com/things/f1uDb44KsXE-plants-caring-system-)
+
 ## 👨‍💻 Author
 
 **Ali Mousa** — Mechatronics Engineering Student @ Lebanese American University
