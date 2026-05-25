@@ -100,4 +100,4 @@ Install these in the Arduino IDE before uploading:
 
 ## 👨‍💻 Author
 
-**Ali Mousa** — Mechatronics Engineering Student @ Lebanese American University 🇱🇧
+**Ali Mousa** — Mechatronics Engineering Student @ Lebanese American University
